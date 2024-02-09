@@ -1,1 +1,1 @@
-document.getElementByTagName("h1").addEventListener("click",()=> alert("welcome"))
+document.getElementById("h1").addEventListener("click",()=> alert("welcome"))
